@@ -65,7 +65,7 @@ O dashboard foi estruturado para responder perguntas de negócio.
 
 ### Versão Por Vídeo
 Clique no link para análise em vídeo:
-https://youtu.be/34b6wbvg28w
+[https://youtu.be/34b6wbvg28w](https://youtu.be/7hN3SMkkzTU)
 
 ## Nota Final: Principais Insights
 
